@@ -1,6 +1,6 @@
 # Harshit Vasoya
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshitvasoya%2Fharshitvasoya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](harshit161718.github.io/portfolio/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=harshit161718.github.io/portfolio/)](harshit161718.github.io/portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Nullhexor)](https://twitter.com/https://x.com/Nullhexor)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://in.linkedin.com/in/harshit-vasoya/)
 
