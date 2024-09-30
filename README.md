@@ -1,11 +1,11 @@
 # Harshit Vasoya
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshitvasoya%2Fharshitvasoya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshitvasoya%2Fharshitvasoya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](harshit161718.github.io/portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Nullhexor)](https://twitter.com/https://x.com/Nullhexor)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://in.linkedin.com/in/harshit-vasoya/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshitvasoya161718@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/harshitvasoya)](https://github.com/harshitvasoya)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=harshit161718.github.io/portfolio/)](https://github.com/harshitvasoya)
 [![Github](https://img.shields.io/github/followers/harshitvasoya?label=Follow&style=social)](https://github.com/harshitvasoya)
 
 As a passionate cybersecurity professional, I specialize in Ethical Hacking and Penetration Testing. Through a hands-on internship, I've gained invaluable experience identifying vulnerabilities, analyzing security systems, and implementing defenses to protect organizations from evolving cyber threats.
