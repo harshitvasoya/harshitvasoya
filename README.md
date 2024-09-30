@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://in.linkedin.com/in/harshit-vasoya/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshitvasoya161718@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=harshit161718.github.io/portfolio/)](https://github.com/harshitvasoya)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=harshit161718.github.io/portfolio/)](harshit161718.github.io/portfolio/)
 [![Github](https://img.shields.io/github/followers/harshitvasoya?label=Follow&style=social)](https://github.com/harshitvasoya)
 
 As a passionate cybersecurity professional, I specialize in Ethical Hacking and Penetration Testing. Through a hands-on internship, I've gained invaluable experience identifying vulnerabilities, analyzing security systems, and implementing defenses to protect organizations from evolving cyber threats.
