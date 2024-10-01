@@ -21,5 +21,15 @@ As a passionate cybersecurity professional, I specialize in Ethical Hacking and 
 - 🕵️ Incident Response & Forensics
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-kali%20linux-05122A?style=plastic&logo=kali-linux&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Burpsuite-05122A?style=plastic&logo=Burpsuite&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Nmap-05122A?style=plastic&logo=Nmap&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-wireshark-05122A?style=plastic&logo=wireshark&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Metasploit-05122A?style=plastic&logo=Metasploit&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Metasploitable%20-05122A?style=plastic&logo=Metasploitable&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Qradare-05122A?style=plastic&logo=Qradare&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Codesonar-05122A?style=plastic&logo=Codesonar&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Coverity-05122A?style=plastic&logo=Coverity&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Snyk-05122A?style=plastic&logo=Snyk&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-DBdat-05122A?style=plastic&logo=DBdat&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-42crunch-05122A?style=plastic&logo=42crunch&color=4c4848) ![Bootstrap](https://img.shields.io/badge/-Nessus-05122A?style=plastic&logo=Nessus&color=4c4848)
-
+[![Kali Linux](https://img.shields.io/badge/-kali%20linux-05122A?style=plastic&logo=kali-linux&color=4c4848)](https://www.kali.org/) 
+[![Burpsuite](https://img.shields.io/badge/-Burpsuite-05122A?style=plastic&logo=Burpsuite&color=4c4848)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=plastic&logo=Nmap&color=4c4848)](https://nmap.org/)
+[![Wireshark](https://img.shields.io/badge/-wireshark-05122A?style=plastic&logo=wireshark&color=4c4848)](https://www.wireshark.org/)
+[![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=plastic&logo=Metasploit&color=4c4848)](https://www.metasploit.com/)
+[![Metasploitable](https://img.shields.io/badge/-Metasploitable%20-05122A?style=plastic&logo=Metasploitable&color=4c4848)](https://sourceforge.net/projects/metasploitable/)
+[![Qradar](https://img.shields.io/badge/-Qradar-05122A?style=plastic&logo=Qradar&color=4c4848)](https://www.ibm.com/products/qradar-siem)
+[![Codesonar](https://img.shields.io/badge/-Codesonar-05122A?style=plastic&logo=Codesonar&color=4c4848)](https://www.grammatech.com/products/codesonar)
+[![Coverity](https://img.shields.io/badge/-Coverity-05122A?style=plastic&logo=Coverity&color=4c4848)](https://scan.coverity.com/)
+[![Snyk](https://img.shields.io/badge/-Snyk-05122A?style=plastic&logo=Snyk&color=4c4848)](https://snyk.io/)
+[![DBdat](https://img.shields.io/badge/-DBdat-05122A?style=plastic&logo=DBdat&color=4c4848)](https://www.dbdat.com/)
+[![42crunch](https://img.shields.io/badge/-42crunch-05122A?style=plastic&logo=42crunch&color=4c4848)](https://42crunch.com/)
