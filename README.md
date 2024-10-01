@@ -1,4 +1,12 @@
-# Harshit Vasoya
+# 
+
+'    _                    _     _ _                                      
+'   | |__   __ _ _ __ ___| |__ (_) |_  __   ____ _ ___  ___  _   _  __ _ 
+'   | '_ \ / _` | '__/ __| '_ \| | __| \ \ / / _` / __|/ _ \| | | |/ _` |
+'   | | | | (_| | |  \__ \ | | | | |_   \ V / (_| \__ \ (_) | |_| | (_| |
+'   |_| |_|\__,_|_|  |___/_| |_|_|\__|   \_/ \__,_|___/\___/ \__, |\__,_|
+'                                                            |___/       
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://harshitvasoya.github.io/portfolio/)](https://harshitvasoya.github.io/portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Nullhexor)](https://x.com/Nullhexor)
